@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wolf2w-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wolf2w-common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wolf2w-common/wolf2w-common-core/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wolf2w-common/wolf2w-common-core/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wolf2w-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wolf2w-gateway/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wolf2w-mgrsite/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wolf2w-mgrsite/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wolf2w-modules-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wolf2w-modules-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wolf2w-modules-api/wolf2w-users-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wolf2w-modules-api/wolf2w-users-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wolf2w-modules/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wolf2w-modules/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wolf2w-modules/wolf2w-users-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wolf2w-modules/wolf2w-users-server/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wolf2w-website/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wolf2w-website/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
